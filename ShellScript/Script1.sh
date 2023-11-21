@@ -3,7 +3,6 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "Hello batch-21, We are learning Jenkins"
-echo "hello Team, How are you?"
+asldjnaslnd
 echo "Hiiii"
 echo "push through Ec2"

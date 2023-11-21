@@ -6,6 +6,7 @@ val1=`expr $a + $b`
 echo "a + b : $val1"
 val2=`expr $a - $b`
 echo "a - b : $val2"
+echo "cmdla list: $@"
 val3=`expr $a \* $b`
 echo "a * b : $val3"
 val4=`expr $b / $a`

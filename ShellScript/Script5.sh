@@ -3,4 +3,4 @@
 NAME=Young-Minds
 readonly NAME
 laksndlkn
-echo "my name is: $NAME"
+echo "my name is"

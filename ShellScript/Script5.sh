@@ -4,3 +4,4 @@ NAME=Young-Minds
 readonly NAME
 laksndlkn
 echo "my name is"
+echo"learn gits"

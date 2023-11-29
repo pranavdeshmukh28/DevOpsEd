@@ -1,10 +1,26 @@
-#!/bin/bash
-#This script is to check if and else
-a=10
-b=20
-if [ $a -gt $b ]
-then
-echo "a is greater than b"
-else
-echo "a is smaller than b"
-fi
+pipeline{
+    agent any
+    stages{
+        stage('build')
+        {
+        steps{
+            echo'This is build section'
+             }
+        }
+        
+         stage('Test')
+        {
+        steps{
+            echo'This is build section'
+             }
+        }
+         }
+          stage('Deploy')
+        {
+        steps{
+            echo'This is build section'
+             }
+        }
+         }
+         
+}
